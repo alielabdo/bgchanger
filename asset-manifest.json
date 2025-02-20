@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bgchanger/static/css/main.72d41bd8.css",
+    "main.js": "/bgchanger/static/js/main.847a281d.js",
+    "index.html": "/bgchanger/index.html",
+    "main.72d41bd8.css.map": "/bgchanger/static/css/main.72d41bd8.css.map",
+    "main.847a281d.js.map": "/bgchanger/static/js/main.847a281d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72d41bd8.css",
+    "static/js/main.847a281d.js"
+  ]
+}
